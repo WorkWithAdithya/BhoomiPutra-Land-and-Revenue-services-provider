@@ -33,7 +33,61 @@ Land Purchase and Sale: Expert guidance and support throughout the entire proces
 <li>  Land Dispute Resolution: Expert assistance in resolving land-related disputes.</li>
 
     
+<h1>Snapshots</h1>
 
+# Home page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/Home.png  width="1000" height="500">
+
+# Service page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/Service.png  width="1000" height="500">
+
+# Cart page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/Cart.png  width="1000" height="500">
+
+# News page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/News.png  width="1000" height="500">
+
+# Payment page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/Payment.png  width="400" height="600">
+
+# History page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/History.png  width="1000" height="600">
+
+# Contact page
+<img src=https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider/blob/main/images/Contact.png  width="1000" height="500">
+
+<h1>Installation</h1>
+
+<h1>Step 1: Install Git (if not already installed)</h1>
+<p>If Git is not installed on your machine, download and install it:</p>
+<p>Download Git.</p>
+
+
+<h1>Step 2: Clone the Repository</h1>
+<p>Open your terminal (Command Prompt or Git Bash for Windows, Terminal for macOS or Linux).</p>
+<p>Use the git clone command followed by the repository's URL.</p>
+
+```bash
+https://github.com/WorkWithAdithya/BhoomiPutra-Land-and-Revenue-services-provider.git
+```
+
+
+<p>After this type : To open in VS-Code</p> 
+
+```bash
+code .
+```
+<h1>Step 3: Install all the packages</h1> 
+
+```bash
+npm install
+```
+
+<h1>Step 4: Run the Project</h1> 
+
+```bash
+npm start
+```
 
 
 

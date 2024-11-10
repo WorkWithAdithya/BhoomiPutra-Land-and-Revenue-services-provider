@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+# Bhoomiputra : Land and Revenue service provider.
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<h1>Feel free to contact me!</h1>
+<p>Name : Adithya BS</p>
+<p>Email : workwithadithya01@gmail.com</p>
+
